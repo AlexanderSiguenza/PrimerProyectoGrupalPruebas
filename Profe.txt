@@ -1,7 +1,20 @@
+cambio que hizo Manuel
+=======
+
 echo "# PrimerProyectoGrupalPruebas" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/AlexanderSiguenza/PrimerProyectoGrupalPruebas.git
+git push -u origin mainecho "# PrimerProyectoGrupalPruebas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AlexanderSiguenza/PrimerProyectoGrupalPruebas.git
 git push -u origin main
+
+Hola Alex, este es un cambio
+
+1-cambios de alex
