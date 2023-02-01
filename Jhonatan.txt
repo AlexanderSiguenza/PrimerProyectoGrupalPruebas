@@ -1,8 +1,4 @@
-echo "# PrimerProyectoGrupalPruebas" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AlexanderSiguenza/PrimerProyectoGrupalPruebas.git
-git push -u origin main
-segundo cambio
+Esta es una modificacion
+Esta es mi segunda modificacion
+Esta es mi tercera modificacion, que Dios me ayude
+
